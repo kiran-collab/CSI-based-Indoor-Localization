@@ -1,6 +1,10 @@
 # SWidir
 
-This is the official implementation for _BMEye: Public Health-Oriented Body Mass Index Monitoring using Commodity WiFi_ accepted at WF-IoT '23.
+This is the official implementation for _SWiDir: Enhancing Smartphone-based Walking Direction Estimation with Passive WiFi Sensing_ accepted at WF-IoT '23.
+
+<div align="center">
+<img src="assets/swidir.png" >
+</div>
 
 # Overview
 
